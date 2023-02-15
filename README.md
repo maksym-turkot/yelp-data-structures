@@ -1,4 +1,4 @@
-# Complex Data Structure Simulation of Yelp  App
+# Complex Data Structure Simulation of the Yelp App
 
 Program focuses on providing information to people who are trying to find a restaurant, simulating a subset of Yelp app features. It reads restaurant data from a file storing it in a binary search trees and linked lists. User may interact with the system by printing restaurant information, adding, retrieving, and removing restaurants. 
 
