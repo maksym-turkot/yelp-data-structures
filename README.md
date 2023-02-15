@@ -15,7 +15,7 @@ Available commands include:
 
 ## Features implemented
 - Restaurants are saved to two binary search trees, ordered by name and location, respectively.
-- Print command prints restaurants, sorted by name (from the first binary tree).
-- Add command takes parameters, each on new line, to add a new restaurant to both binary trees.
-- Write command writes restaurants to the file, sorted by name (from the first binary tree).
-- Remove command removes restaurants that match by name and location from all indexing structures (array lists of both trees), and removes the node from each tree once the array lists are empty. Duplicates in the array lists are also removed.
+- `print` command prints restaurants, sorted by name (from the first binary tree).
+- `add` command takes parameters, each on new line, to add a new restaurant to both binary trees.
+- `write` command writes restaurants to the file, sorted by name (from the first binary tree).
+- `remove` command removes restaurants that match by name and location from all indexing structures (array lists of both trees), and removes the node from each tree once the array lists are empty. Duplicates in the array lists are also removed.
